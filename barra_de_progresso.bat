@@ -1,6 +1,6 @@
 ::Barra de progresso
 @echo OFF
-title Barra de progresso !
+title barra_de_progresso
 color 0A
 echo Carregando...
 echo ========================================
