@@ -1,6 +1,6 @@
 ::Matrix
 @echo OFF
-Title Matrix
+Title matrix
 color 0A
 :Matrix
 echo 0 1 0 1 1 1 0 0 1 0 1 0 0 0 1 1 0 1 0 1 0 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0 0 1 1 0 0 1 0 1
