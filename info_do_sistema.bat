@@ -1,6 +1,6 @@
 ::informação do sistema
 @echo OFF
-title Sistema
+title info_do_sistema
 color 0A
 systeminfo
 pause >nul
