@@ -1,7 +1,7 @@
 ::Checar disco
 ::ABRA COMO ADMINISTRADOR
 @echo OFF
-title Check Disk
+title disk_check
 color 0A
 chkdsk
 pause >nul
