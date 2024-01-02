@@ -1,6 +1,6 @@
 ::Luz piscando
 @echo OFF
-title Luz piscando
+title piscando
 :flash
 ping localhost -n 1 >nul
 cls
