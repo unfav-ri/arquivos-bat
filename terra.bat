@@ -1,6 +1,6 @@
 ::ANIMAÇÃO DA TERRA
 @echo OFF
-Title Terra
+Title terra
 color 0A
 echo.
 :earth
