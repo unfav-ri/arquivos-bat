@@ -1,6 +1,6 @@
 ::TV sem sinal
 @echo OFF
-Title TV
+Title tv
 mode con cols=80 lines=25
 color f
 cls
