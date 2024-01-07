@@ -102,5 +102,5 @@ echo Carregamento Completo...
 echo ========================================
 echo ^|################################^| 100 ^|
 echo ========================================
-echo PRECIONE UMA TECLA PARA CONTINUAR!
+echo PRESSIONE UMA TECLA PARA CONTINUAR!
 pause >nul
