@@ -8,7 +8,7 @@ Este repositório contém vários scripts .bat personalizados para automação e
 
 ### 1. Barra de Progresso (barra_de_progresso.bat)
 - Um script simples para simular uma barra de progresso no terminal.
-<img src="https://media.discordapp.net/attachments/1191521910442446949/1193369085656973332/barra_de_progresso.gif?ex=65ac7691&is=659a0191&hm=5f4a8798ee772620df509996497ca3712800284d43aa48ef47ba3f5c1fe2b94b&=" width="400">
+<img src="https://media.discordapp.net/attachments/1191521910442446949/1193371813787488406/bara.gif?ex=65ac791c&is=659a041c&hm=0f2919e120ef737af13309346017620a8f3dc8b2e0ba2a1237e9bd3f4cbb5992&=" width="400">
 
 ### 2. Disk Check (disk_check.bat)
 - Um script para verificar o estado do disco e apresentar informações relacionadas ao armazenamento.
@@ -20,7 +20,7 @@ Este repositório contém vários scripts .bat personalizados para automação e
 
 ### 4. Matrix (matrix.bat)
 - Um script que cria um efeito visual semelhante ao código "Matrix" em uma janela de terminal.
-<img src="https://media.discordapp.net/attachments/1191521910442446949/1193369084037967913/matrix.gif?ex=65ac7691&is=659a0191&hm=ab5c3c63a1fb2b5f0fd07715feca73282bae52ddbb37000694b493351d9ca5b6&=" width="400">
+<img src="https://media.discordapp.net/attachments/1191521910442446949/1193371814244663296/matrix.gif?ex=65ac791c&is=659a041c&hm=0f60d6a954689af6067dbc3021892d30c9103aaf663c022ebf84d110cac35c37&=" width="400">
 
 ### 5. Piscando (piscando.bat)
 - Um script que faz piscar a tela.
