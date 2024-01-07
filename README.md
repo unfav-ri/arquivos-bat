@@ -20,7 +20,7 @@ Este repositório contém vários scripts .bat personalizados para automação e
 
 ### 4. Matrix (matrix.bat)
 - Um script que cria um efeito visual semelhante ao código "Matrix" em uma janela de terminal.
-<img src="https://cdn.discordapp.com/attachments/1191521910442446949/1193372117270548531/matrix.gif?ex=65ac7964&is=659a0464&hm=c0444ef4051251e5b9930fc9267f97ce16b71e6e83d4d814b234b4cf90d31370&" width="400">
+<img src="./matrix.gif" width="400">
 
 ### 5. Piscando (piscando.bat)
 - Um script que faz piscar a tela.
