@@ -16,7 +16,7 @@ Este repositório contém vários scripts .bat personalizados para automação e
 
 ### 3. Login (login.bat)
 - Um script para simular um processo de login básico.
-<img src="https://media.discordapp.net/attachments/1191521910442446949/1193369084453191770/login.gif?ex=65ac7691&is=659a0191&hm=98106507358977d209115c54717e9c96eb9f923c1f1a51237da530775fca344d&=" width="400">
+<img src="https://media.discordapp.net/attachments/1191521910442446949/1193369084453191770/login.gif?ex=65ff8511&is=65ed1011&hm=20ff8e1778964eb046dc364c5cd1011093f4795ca82b1b5810a0c34df9c24ddf&=" width="400">
 
 ### 4. Matrix (matrix.bat)
 - Um script que cria um efeito visual semelhante ao código "Matrix" em uma janela de terminal.
