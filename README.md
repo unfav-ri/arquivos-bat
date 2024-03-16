@@ -54,3 +54,13 @@ Clone este repositório:
 4- "script".bat
 
 ---
+
+# Tecnologias utilizadas
+
+- BAT
+
+# Autor
+
+R. Gonçalves
+https://www.linkedin.com/in/unic-ri/
+
