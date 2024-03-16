@@ -61,6 +61,5 @@ Clone este repositório:
 
 # Autor
 
-R. Gonçalves
-https://www.linkedin.com/in/unic-ri/
-
+R. Gonçalves  
+[LinkedIn](https://www.linkedin.com/in/unic-ri/ "Visite meu perfil no LinkedIn")
