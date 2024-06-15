@@ -8,7 +8,7 @@ Este repositório contém vários scripts .bat personalizados para automação e
 
 ### 1. Barra de Progresso (barra_de_progresso.bat)
 - Um script simples para simular uma barra de progresso no terminal.
-<img src="./barra_de_progresso.gif" width="400">
+<img src="https://github.com/unfav-ri/assets/blob/master/assets/BAT/barra_de_progresso.gif" width="400">
 
 ### 2. Disk Check (disk_check.bat)
 - Um script para verificar o estado do disco e apresentar informações relacionadas ao armazenamento.
