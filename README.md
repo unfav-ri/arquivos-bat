@@ -71,7 +71,7 @@ Para usar os scripts deste repositório, siga os passos abaixo:
 
 # Tecnologias utilizadas
 
-**BAT**
+- **BAT**
 
 ## Autor
 
